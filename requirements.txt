@@ -8,3 +8,4 @@ peft
 python-dotenv
 torch
 transformers
+ipykernel
