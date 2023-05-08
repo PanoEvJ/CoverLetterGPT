@@ -1,0 +1,10 @@
+bitsandbytes
+datasets
+huggingface_hub
+ipython
+openai
+pandas
+peft
+python-dotenv
+torch
+transformers
